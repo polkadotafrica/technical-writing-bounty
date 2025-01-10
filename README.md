@@ -1,6 +1,5 @@
 # Polkadot Africa Technical writing(Tutorials) Rules
 
-
 ### Where to start?
 The best way to start is setting up your wallet, creating your onchain identity and reading the lightpaper.
 
@@ -10,8 +9,8 @@ Available topics are always outlined as Github issues.
 
 There are different tags for different types of articles.
 
-- **content-writing**: these articles are expected to be less technical are more focused to beginners.
-- **tech-tutorials**: these are developer articles. they are expected to be heavily infused with much technical knowledge.
+- **content-writing**: these articles are expected to be less technical are more focused to beginners. 
+- **tech-tutorials**: these are developer articles. they are expected to be heavily infused with much technical knowledge. For the avoidance of doubt, [this](https://diataxis.fr/tutorials/) is our definition of a tutorial.
 
 Pick a topic, follow the resources provided to help you in your research, write using the provided outlines and get paid!
 
