@@ -29,7 +29,8 @@ After submitting your work, you'll receive a response on whether we've chosen yo
 
 ### Renumerations
 
-For tech tutorials, we pay 250 - 350 USD for every submission we choose.
+For tech tutorials, we pay 200 - 250 USD for every submission we choose.
+For tech tutorials that includes a complimentary walkthrough video, we pay 350 for every submission we choose.
 For content writing, we pay 150 - 200 USD for every submission we choose.
 
 
