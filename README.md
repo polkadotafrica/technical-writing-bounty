@@ -38,4 +38,4 @@ For other forms of contents, we pay 150 - 200 USD for every submission we choose
 
 ## Got a topic in mind?
 
-If you have topic in mind that you think would be beneficial to the community. Send us a pitch, containing the topic and the proposed outline
+If you have topic in mind that you think would be beneficial to the community. Send us a pitch, containing the topic and the proposed outline.
